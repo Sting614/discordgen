@@ -1,0 +1,2 @@
+# discordgen
+generador keys
